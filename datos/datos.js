@@ -13,13 +13,13 @@ export const datos = [
     },
     {
         'categoria': 1,
-        'pregunta': '¿Qué clase se utiliza como base para la herencia',
+        'pregunta': '¿Qué clase se utiliza como base para la herencia?',
         'opciones': ['Final', 'Abstract', 'Public', 'Miembros'],
         'respuesta': 'Abstract'
     },
     {
         'categoria': 1,
-        'pregunta': '¿Qué clase se declara como la clase que termina una cadena de herencia',
+        'pregunta': '¿Qué clase se declara como la clase que termina una cadena de herencia?',
         'opciones': ['Final', 'Abstract', 'Public', 'Miembros'],
         'respuesta': 'Final'
     },
@@ -55,13 +55,13 @@ export const datos = [
     },
     {
         'categoria': 2,
-        'pregunta': '¿Cuál es el dominio de nombres de java',
+        'pregunta': '¿Cuál es el dominio de nombres de java?',
         'opciones': ['Ficheros', 'Documentos', 'Directorios', 'Internet'],
         'respuesta': 'Internet',
     },
     {
         'categoria': 3,
-        'pregunta': ' En java, la entrada desde teclado y la salida a pantalla están reguladas a traves de la clase: ',
+        'pregunta': 'En java, la entrada desde teclado y la salida a pantalla están reguladas a traves de la clase: ',
         'opciones': ['System', 'Abstract', 'Final', 'Public'],
         'respuesta': 'System'
     },
@@ -79,7 +79,7 @@ export const datos = [
     },
     {
         'categoria': 3,
-        'pregunta': 'Qué es un array en java',
+        'pregunta': '¿Qué es un array en java?',
         'opciones': ['Un fichero','Un objeto', 'Un directorio', 'Una interface'],
         'respuesta': 'Un objeto'
     },
@@ -97,49 +97,49 @@ export const datos = [
     },
     {
         'categoria': 4,
-        'pregunta': 'A qué clase pertenece la siguiente definición: "lee bytes y los transforma en caracteres"',
+        'pregunta': '¿A qué clase pertenece la siguiente definición: "lee bytes y los transforma en caracteres"?',
         'opciones': ['OutputStreamWriter', 'InputStreamReader', 'Ninguna de las anteriores', 'PublicStreamReader'],
         'respuesta':  'InputStreamReader',
     },
     {
         'categoria': 4,
-        'pregunta': 'A qué clase pertenece la siguiente definición: "los caracteres escritos se transforman previamente en bytes"',
+        'pregunta': '¿A qué clase pertenece la siguiente definición: "los caracteres escritos se transforman previamente en bytes"?',
         'opciones': ['Ninguna de las anteriores','OutputStreamWriter', 'InputStreamReader', 'PublicStreamReader'],
         'respuesta': 'OutputStreamWriter',
     },
     {
         'categoria': 4,
-        'pregunta': '¿Que clase es una representación abstracta de ficheros y directorios',
+        'pregunta': '¿Que clase es una representación abstracta de ficheros y directorios?',
         'opciones': ['final', 'booblean', 'File', 'Nothin'],
         'respuesta': 'File'
     },
     {
         'categoria': 4,
-        'pregunta': 'A qué clase pertenece la siguiente definición: " abre un fichero de texto en modo lectura',
+        'pregunta': '¿A qué clase pertenece la siguiente definición: "abre un fichero de texto en modo lectura"?',
         'opciones': ['FileReader', 'Ninguna de las anterires', 'FileWriter', 'FileOutput'],
         'respuesta': 'FileReader'
     },
     {
         'categoria': 5,
-        'pregunta': 'A qué clase pertenece la siguiente definición: "abre un fichero de texto en modo escritura"',
+        'pregunta': '¿A qué clase pertenece la siguiente definición: "abre un fichero de texto en modo escritura"?',
         'opciones': ['FileReader','FileWriter', 'FileOutput', 'Ningun de las anteriores'],
         'respuesta': 'FileWriter'
     },
     {
         'categoria': 5,
-        'pregunta': 'Que hace el metodo void write (int car) en la clase BufferedWriter',
+        'pregunta': '¿Que hace el metodo void write (int car) en la clase BufferedWriter?',
         'opciones': ['Escribe un carácter en el fichero', 'Escribe una porcion de un array de caracteres en el fichero', 'Ninguna de las anteriores', 'Escribe una porción de una cadena de caracteres en el fichero'],
         'respuesta': 'Escribe un carácter en el fichero'
     },
     {
         'categoria': 5,
-        'pregunta': '¿Qué hace el método void writer (char []buffer, in offset, int len) en la clase BufferedWriter:',
+        'pregunta': '¿Qué hace el método void writer (char []buffer, in offset, int len) en la clase BufferedWriter?',
         'opciones': ['Escribe un carácter en el fichero', 'Ninguna de las anteriores', 'Escribe una porción de un array de caracteres en el fichero', 'Escribe una porción de una cadena de caracteres en el fichero'],
         'respuesta': 'Escribe una porción de un array de caracteres en el fichero'
     },
     {
         'categoria': 5,
-        'pregunta': 'Qué hace el método void Writer(String cadena, int offset, int len) en la clase bufferedWriter', 
+        'pregunta': '¿Qué hace el método void Writer(String cadena, int offset, int len) en la clase bufferedWriter?', 
         'opciones': ['Escribe un carácter en el fichero', 'Escribe una porción de un array de caracteres', 'Escribe una porción de un array de caracteres en el fichero', 'Escribe una porción de una cadena de caracteres en el fichero'],
         'respuesta': 'Escribe una porción de una cadena de caracteres en el fichero'
     },
