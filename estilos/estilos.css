@@ -1,0 +1,14 @@
+body {
+    background: rgb(38, 146, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#tarjeta {
+    background: rgb(255, 255, 255);
+    width: 50%;
+    padding: 3%;
+    text-align: center;
+
+}
