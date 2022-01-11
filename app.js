@@ -1,7 +1,6 @@
 import {informacion} from "./datos/informacion.js";
 import { Concurso } from "./modelos/Concurso.js";
 import { Interfaz } from "./modelos/Interfaz.js";
-import { Jugador } from "./modelos/Jugador.js";
 const renderizar = (concurso, interfaz) => {
     concurso.finalizar();
     interfaz.mostrarAv(concurso.ronda, concurso.puntuacion)
